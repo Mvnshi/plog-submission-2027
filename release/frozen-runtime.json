@@ -1,0 +1,28 @@
+{
+  "artifacts_sha256": {
+    "configs/selected.json": "62870ec2017962f73ee7e5972176461698510bb9c94599aacaeb9039293c05d3",
+    "models/ball_free_sportec_v1.json": "d41d788cf7ce43b16f8a6b81a8dd931849cdb44a282e9874762c25fa79c57971"
+  },
+  "format": "plog-frozen-runtime-v1",
+  "release_commit": "8dbd62e3cbdb52ae0e95ac294d113420729d0bed",
+  "source_normalization": "CRLF to LF only",
+  "source_sha256": {
+    "evaluation/possession_metrics.py": "341bad48904b489d6e875397b27687f5d6a4d22a397f3dc8af3a00d48f16874d",
+    "evaluation/validate_submission.py": "07ac29499acbd337e1dc1de1832d63f6e1fa1d981e22f6ad08212529e2bbee14",
+    "games.py": "3b2122794e9e0476e2b3a871d14880e5fa47c4feaeacf99caef054c2309076ce",
+    "plog/__init__.py": "3c22332682ba63bd23ccf54219766071d61914767c8a4dc9bf1a6795362a0928",
+    "plog/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+    "plog/cli.py": "926b5c44218981d7a690cb234c7f082c6c22eb21dee240dff587db39922b8f8d",
+    "plog/config.py": "584b585db2d64eb9572a6ec3026af20b166ec22aeaeec3014b09a67c1572b449",
+    "plog/data.py": "89d0c7cf52e598629b231f766718910bb0279a63e76b502f8072c95a7807b0b6",
+    "plog/decoder.py": "fffbd83a5559ff77766474f47c478c1cc8e3829aa16765731a283c02223a60f2",
+    "plog/events.py": "922b5e4f3bdc4da97c8f0f8aea5722d98ef71274a109ae486470738ebb0ea3ae",
+    "plog/features.py": "0dce19c6c2b60385cd9ce11eb1ac907216dd0b23446884344c23ae7f17f48e78",
+    "plog/inference.py": "871a3ba4c6490c8fb9c3a524446c6bf621a264c7e40c6d3beef7351d2a574538",
+    "plog/learning.py": "818ee4c9ae910f7285c5f8592731beb07b631a455c25d7a01d594681ccffe779",
+    "plog/physics.py": "95f087a8228a25fb81dee7b6bb93ff48bd07e05f8e43336b34f040c2d3578818",
+    "plog/submission.py": "83ffaacae5ebb618b62f80e2a18da45ed3771aff75c85e8c3a7c68068a134e10",
+    "requirements-plog.lock": "e87d7cc834987a502f9bc1204dbd7ee01c5b998dbed190a1166f52e46140a9f5",
+    "run_offline.ps1": "bf1d4d2d88b71cb272657144eb8151e70b38af2b40d3c5ce1e70b096b6581a7e"
+  }
+}
