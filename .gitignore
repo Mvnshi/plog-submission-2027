@@ -31,3 +31,13 @@ plog-output/
 *.mkv
 *.pkl
 *.parquet
+
+# Local-only reports and adaptive state must never enter the source entry.
+PLOG-licensed/
+private-target/
+t0-audit-*/
+t20-media-*/
+*.local-only.json
+coarse-local-only.json
+*.target-adapted.json
+*.target-state.json
